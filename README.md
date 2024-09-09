@@ -16,20 +16,6 @@ A simple weather application that allows users to search for current weather con
 - **JavaScript**: Interactivity and API integration.
 - **OpenWeatherMap API**: For fetching real-time weather data.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/weather-app.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd weather-app
-   ```
-
-3. Open `index.html` in your preferred browser.
-
 ## Usage
 
 1. Enter the name of a city in the input field.
@@ -47,6 +33,3 @@ A simple weather application that allows users to search for current weather con
 
 This app uses the OpenWeatherMap API to fetch weather data. You will need an API key to use it. The API key is already included in the `script.js` file but should be kept secure in production environments.
 
-## License
-
-This project is licensed under the MIT License.
